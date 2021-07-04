@@ -1,4 +1,5 @@
 /* redS Start */
+location.hash.indexOf("#info")>-1&&window.location.replace("/p/informasi.html"),
 location.hash.indexOf("#pulsa")>-1&&window.location.replace("/p/pulsa-all-operator.html"),
 location.hash.indexOf("#paket-data")>-1&&window.location.replace("/p/paket-data-internet.html"),
 location.hash.indexOf("#token-pln")>-1&&window.location.replace("/p/token-listrik-pln.html"),
